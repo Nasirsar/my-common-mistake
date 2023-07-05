@@ -1,0 +1,18 @@
+h3{
+    color: darkolivegreen;
+}
+form{
+background-size: 20px;
+}
+#sign{
+    color: blueviolet;
+}
+#in{
+   color: burlywood;
+}
+.all{
+    border: 10px solid;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5%;
+}
